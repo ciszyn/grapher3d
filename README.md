@@ -29,3 +29,7 @@ $(1-(\frac{x}{6})^2-(\frac{y}{3.5})^2)((x-3.9)^2+y^2-1.2^2)(x^2+y^2-1.2^2)((x+3.
   <img src="./results/genus3.png" width="300">
   <img src="./results/genus3-mesh.png" width="300">
 </p>
+
+#### To Do:
+- antialiasing
+- better GUI
